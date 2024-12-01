@@ -82,3 +82,10 @@ CSV файлы с данными можно найти в папке `data` да
     [Как выполнить команду внутри Docker контейнера?](https://www.mousedc.ru/learning/565-komanda-docker-konteyner/)
 
     Также вы можете подключиться к терминалу докер контейнера средствами vscode.
+
+# Каспаров Иоанн 6232
+
+## Airflow
+
+Выполнение команды перед запуском контейнеров и подготовка к запуску **Apache airflow**
+![image](https://github.com/user-attachments/assets/4568d119-1001-4d9a-be48-30d0666216d5)
